@@ -1,5 +1,5 @@
 import Chart from 'react-apexcharts';
-import { servicesVersion } from 'typescript';
+//import { servicesVersion } from 'typescript';
 
 function BarChat() {
     const options = {
